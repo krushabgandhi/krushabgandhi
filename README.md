@@ -36,8 +36,7 @@ SQL Functions I Use as Data Engineer <br/>
 7 End-To-End Data Engineering Projects for FREE <br/>
 MY JOURNEY INTO DATA ENGINEERING <br/> --->
 My Certifications and Courses <br/>
-[Google Advanced Data Analytics Certificate] (https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477) <br/>
-
+[Machine Learning Specialization: DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/UWP9JLV3DF9S) <br/>
 [Google Advanced Data Analytics Certificate](https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477)
 
 
