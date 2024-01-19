@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Welcome
-Hello, I am Krushab 👋
+
+# Hello, I am Krushab 👋
 Thanks for stopping by. Here's a little bit about myself...<br/>
 😄 My pronouns are: He/His/Him <br/>
 🔭 I’m currently working as a data engineer and building my freelance data engineering portfolio. That means... <br/>
