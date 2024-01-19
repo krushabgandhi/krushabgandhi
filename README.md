@@ -37,3 +37,7 @@ SQL Functions I Use as Data Engineer <br/>
 MY JOURNEY INTO DATA ENGINEERING <br/> --->
 My Certifications and Courses <br/>
 [Google Advanced Data Analytics Certificate] (https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477) <br/>
+
+[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477)
+
+
