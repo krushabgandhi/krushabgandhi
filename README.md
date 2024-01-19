@@ -25,7 +25,7 @@ Thanks for stopping by. Here's a little bit about myself...<br/>
 💬 I'm looking to collaborate and create some cool content that we can share with the community <br/>
 🤘 You can find various data engineering projects on my profile <br/>
 
-📫 Here's how you can reach me: [LinkedIn]: http://www.linkedin.com/in/krushabgandhi <br/>
+📫 Here's how you can reach me: [LinkedIn] (http://www.linkedin.com/in/krushabgandhi) <br/>
 <!---🤘 Here are my Open Source contributions so far: I keep building projects and tutorials for my YouTube channel, here are some <br/>
 YouTube Analysis End-To-End Data Engineering Project using Python and AWS <br/>
 Twitter Data Pipeline using Airflow <br/>
@@ -36,4 +36,4 @@ SQL Functions I Use as Data Engineer <br/>
 7 End-To-End Data Engineering Projects for FREE <br/>
 MY JOURNEY INTO DATA ENGINEERING <br/> --->
 My Certifications and Courses <br/>
-[Google Advanced Data Analytics Certificate]: https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477 <br/>
+[Google Advanced Data Analytics Certificate] (https://www.credly.com/badges/a74a564a-54fa-40ba-bf58-16e48bf80477) <br/>
